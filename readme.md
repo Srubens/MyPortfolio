@@ -10,7 +10,7 @@ E caso você seja iniciante baixe o git na sua maquina vai lhe ajudar
 Requisitos saber o basico de html e css
 
 ## 2 - Fork este Repositorio
-![alt text]()
+![alt text](https://github.com/Srubens/MyPortf-lio/blob/master/img/corte-01.jpg)
 Ao fazer fork deste repositorio, você estará fazendo um clone de todas as pasta para o seu git.
 Você pode fazer as alterações diretamente no navegador ou fazendo um clone da pasta para o seu computador
 Baixando o projeto na sua maquina você pode a usar o bloco de notas ou ide que achar melhor
