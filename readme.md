@@ -32,3 +32,11 @@ Rola para baixo um pouco a tela ate achar GitHub Pages, e logo após selecionar 
 
 ![alt text](https://github.com/Srubens/MyPortf-lio/blob/master/img/corte-03.jpg)
 
+Depois agurde de dois a 3 minutos para ele estar no ar ele irá gerar um link para você
+
+![alt text](https://github.com/Srubens/MyPortf-lio/blob/master/img/corte-04.jpg)
+
+Depois você pode renomear este link com 
+
+exe: senome.githu.io para que possas divulga-lo
+
